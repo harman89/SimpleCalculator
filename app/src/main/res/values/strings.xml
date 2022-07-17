@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="solveButton">Solve</string>
+    <string name="greetingsText">Hello!\n Enter two numbers and choose mathematical operation</string>
+</resources>
