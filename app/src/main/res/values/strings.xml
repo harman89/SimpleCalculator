@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">SimpleCalculator</string>
     <string name="solveButton">Solve</string>
-    <string name="greetingsText">Hello!\n Enter two numbers and choose mathematical operation</string>
+    <string name="greetingsText">Hello!\nEnter two numbers and choose mathematical operation</string>
+    <string name="availableOperations">Available operations:\n1)Addition(+)\n2)Subtraction(-)\n3)Multiplication(*)\n4)Division(/)\n5)Power(^)</string>
 </resources>
